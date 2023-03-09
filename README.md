@@ -1,6 +1,6 @@
   ###                                                          Hi there 👋 Eu sou o Ather!
 
-                                              🔭 Hoje trabalho com: Redes & Firewall
+                                              🔭 Hoje trabalho com:  Cyber Seucurity e Firewall
                                               🌱 Estudando: Cyber Security & Python
 
 <div align="center">
