@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Ather!</h1>
 
 <p align="center">
-  🔭 I currently work with: <strong>Cybersecurity & Firewalls</strong><br>
-  🌱 Learning: <strong>Offensive Security, Threat Detection & Python</strong><br>
+  🛡️ Building modern cyber defenses from the ground up one rule, one packet at a time.<br>
+  🔥 Focused on Blue Team, and Tactical Python for Security
 </p>
+
 
 <div align="center">
   <a href="https://github.com/AtherCorrea">
