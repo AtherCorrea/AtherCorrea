@@ -1,34 +1,35 @@
-<h1 align="center">Hi there 👋 I'm Ather!</h1>
+<h1 align="center">🛡️ Ather – Cybersecurity Engineer</h1>
 
 <p align="center">
-  🛡️ Building modern cyber defenses from the ground up one rule, one packet at a time.<br>
-  🔥 Focused on Blue Team, and Tactical Python for Security
+  Building modern cyber defenses — from protocol-level analysis to tactical detection engineering.<br>
+  My work blends firewalls, deep packet inspection, and purpose-built logic for real-world threats.
 </p>
 
-
-<div align="center">
-  <a href="https://github.com/AtherCorrea">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtherCorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center"><strong>
+  🔍 Featured Project:
+  <a href="https://github.com/AtherCorrea/ForgeSec" target="_blank">
+    ForgeSec – Cyber Defense Engineering Platform
   </a>
-</div>
+</strong></p>
+
+<p align="center">
+  ⚙️ Modular Labs · Custom IDS/IPS Rules · PCAP Replay · Engine Internals · Blue Team at its Core
+</p>
 
 ---
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=AtherCorrea&theme=dark&hide_border=true"/>
+</p>
+
 
 ### 🛠️ My Toolbox
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align="center" alt="RedHat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
-  <img align="center" alt="Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
-  <img align="center" alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-  <img align="center" alt="Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
   <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
